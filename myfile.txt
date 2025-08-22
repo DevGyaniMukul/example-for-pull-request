@@ -1,2 +1,1 @@
-Lets make first pull request.Just in case
-On main branch an extra commit for conflict.
+Conflicting Branch is making Conflict now.
